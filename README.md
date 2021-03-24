@@ -15,7 +15,7 @@
 
 ## Requirements
 
-Python 3.8 or later with all [requirements.txt](https://github.com/ultralytics/yolov5/blob/master/requirements.txt) dependencies installed, including `torch>=1.6`. To install run:
+Python 3.8 or later with all [requirements.txt](https://github.com/karthikkurella/blind-vision/blob/master/requirements.txt) dependencies installed, including `torch>=1.6`. To install run:
 ```bash
 $ pip install -r requirements.txt
 ```
